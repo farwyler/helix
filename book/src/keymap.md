@@ -394,10 +394,10 @@ Keys to use within picker. Remapping currently not supported.
 
 | Key                          | Description       |
 | -----                        | -------------     |
-| `Shift-Tab`, `Up`, `Ctrl-p`  | Previous entry    |
-| `Tab`, `Down`, `Ctrl-n`      | Next entry        |
-| `PageUp`, `Ctrl-u`           | Page up           |
-| `PageDown`, `Ctrl-d`         | Page down         |
+| `Up`, `Ctrl-k`, `Ctrl-p`     | Previous entry    |
+| `PageUp`, `Ctrl-b`           | Page up           |
+| `Down`, `Ctrl-j`, `Ctrl-n`   | Next entry        |
+| `PageDown`, `Ctrl-f`         | Page down         |
 | `Home`                       | Go to first entry |
 | `End`                        | Go to last entry  |
 | `Enter`                      | Open selected     |
